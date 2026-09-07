@@ -1,4 +1,5 @@
 tt.*
+theme.lua
 .tests
 doc/tags
 debug
